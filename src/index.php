@@ -1,2 +1,2 @@
 <?php
-    icho "Hello docker jenkins php!";
+    echo "Hello docker jenkins php!";
